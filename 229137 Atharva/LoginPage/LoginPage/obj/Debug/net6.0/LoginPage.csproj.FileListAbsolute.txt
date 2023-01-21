@@ -1,0 +1,8 @@
+C:\Users\dac\Desktop\229137\LoginPage\LoginPage\obj\Debug\net6.0\LoginPage.csproj.AssemblyReference.cache
+C:\Users\dac\Desktop\229137\LoginPage\LoginPage\obj\Debug\net6.0\LoginPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\229137\LoginPage\LoginPage\obj\Debug\net6.0\LoginPage.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\229137\LoginPage\LoginPage\obj\Debug\net6.0\LoginPage.AssemblyInfo.cs
+C:\Users\dac\Desktop\229137\LoginPage\LoginPage\obj\Debug\net6.0\LoginPage.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\229137\LoginPage\LoginPage\obj\Debug\net6.0\LoginPage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dac\Desktop\229137\LoginPage\LoginPage\obj\Debug\net6.0\LoginPage.RazorAssemblyInfo.cache
+C:\Users\dac\Desktop\229137\LoginPage\LoginPage\obj\Debug\net6.0\LoginPage.RazorAssemblyInfo.cs
